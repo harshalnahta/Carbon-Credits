@@ -1,0 +1,13 @@
+Source,Unit,Emission Factor,Ref,,,,,
+Grid,tCO2e./kWh,0.00082,CEA,,,,,
+Petrol,tCO2e./L,0.002353,India GHG,,,,,
+Diesel,tCO2e./L,0.00264,India GHG,,,,,
+Kerosene,tCO2e./L,0.00267,EPA,,,,,
+Rail,tCO2e./Pax-Km,0.0000079,India GHG,,,,,
+Air,tCO2e./Pax-Km,0.000121,India GHG,,,,,
+LPG,tCO2e./Kg,0.00301,EPA,,,,,
+Auto - Petrol,KgCO2/Km,0.1135,India GHG,,,,,
+Auto - Diesel,KgCO2/Km,0.1322,India GHG,,,,,
+Auto - CNG,KgCO2/Km,0.10768,India GHG,,,,,
+CNG,KgCO2/scf,0.053,EPA,,,,,1scf = 0.02831 M3
+CNG,KgCO2/Kg,1.872129989,EPA,,,,,
